@@ -8,3 +8,5 @@ while(process.argv[index]){
 		index++
 }
 console.log(sum);
+
+//see if you can do this with a for loop
